@@ -20,6 +20,12 @@ h3 {
   font-style: italic;
   margin: 1rem;
 }
+#featureImg{
+    width:95%;
+}
+.feature p{
+    margin:1rem;
+}
 img {
   width: 70%;
   margin: 1rem;
@@ -44,8 +50,8 @@ a:visited {
   color: black;
 }
 .gallery,
-.local{
-    text-align: center;
+.local {
+  text-align: center;
 }
 .loadMore {
   font-size: 1.5rem;
@@ -53,8 +59,8 @@ a:visited {
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
 }
-.myAccount{
-    border-top: 2px black;
+.myAccount {
+  border-top: 2px black;
 }
 #logo {
   width: 3rem;
@@ -63,10 +69,15 @@ a:visited {
   font-style: none;
   margin-left: 1rem;
 }
-ul{
-    list-style: none;
+.nav a {
+  color: rgb(69, 69, 72);
 }
-h4{
-    margin-left:2.5rem;
+ul {
+  list-style: none;
 }
-
+h4 {
+  margin-left: 2.5rem;
+}
+@media(min-width:600px){
+    
+}

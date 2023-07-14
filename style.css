@@ -7,7 +7,6 @@ html {
   background-color: var(--backgroundColor);
   font-family: var(--font);
 }
-<<<<<<< HEAD
 /* header styles */
 header{
     border-bottom: var(--border);
@@ -137,8 +136,6 @@ header p{
     list-style: none;
   }
   
-=======
-
 h2 {
   font-size: 2rem;
   font-weight: 600;
@@ -180,14 +177,12 @@ select {
   border: none;
   backdrop-filter: blur(20px);
 }
->>>>>>> Albert
 a {
   text-decoration: none;
 }
 a:visited {
   color: black;
 }
-<<<<<<< HEAD
 
 .footerPara {
   font-style: none;
@@ -224,7 +219,6 @@ header p{
     margin-top:2.5rem;
 }
   
-=======
 .gallery,
 .local {
   text-align: center;
@@ -258,7 +252,6 @@ h4 {
     border-top: var();
     margin-top: 2rem;
 }
-@media(min-width:950px){
 .feature{
     display:grid;
     grid-template-columns: 2;
@@ -381,6 +374,4 @@ h2{
 .about{
     grid-column: 4/5;
 }
-
->>>>>>> Albert
 }
